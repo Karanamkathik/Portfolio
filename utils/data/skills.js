@@ -12,13 +12,9 @@ export const skillsData = [
   'Git',
   'AWS',
   'Bootstrap',
-  'Docker',
-  'Go',
   'Figma',
-  'Firebase',
   'MaterialUI',
-  'Nginx',
-  'Strapi'
+  'c++'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.

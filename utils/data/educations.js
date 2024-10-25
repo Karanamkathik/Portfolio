@@ -2,19 +2,19 @@ export const educations = [
   {
     id: 1,
     title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    duration: "2021 - 2025",
+    institution: "Indian Institute Of Information Technology - Bhagalpur",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: " 12th Standard",
+    duration: "2019 - 2021",
+    institution: "Vedavyas Narayana Junior college",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "1oth Standard",
+    duration: "2018 - 2019",
+    institution: "Sri Chaitanya Technology School",
   }
 ]
