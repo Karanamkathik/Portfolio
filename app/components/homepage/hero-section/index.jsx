@@ -48,7 +48,7 @@ function HeroSection() {
               <BsLinkedin size={30} />
             </Link>
             <Link
-              href={'https://www.instagram.com/_karthik.karanam_/'}
+              href={personalData.instagram}
               target='_blank'
               className="transition-all text-pink-500 hover:scale-125 duration-300"
             >
